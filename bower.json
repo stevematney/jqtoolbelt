@@ -13,5 +13,11 @@
     "bower_components",
     "test",
     "tests"
+  ],
+  "keywords": [
+    "jquery",
+    "javascript",
+    "library",
+    "jqtoolbelt"
   ]
 }
