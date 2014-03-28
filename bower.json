@@ -1,0 +1,17 @@
+{
+  "name": "jqtoolbelt",
+  "version": "0.0.0",
+  "homepage": "https://github.com/stevematney/jqtoolbelt",
+  "description": "A toolbelt of extras for jQuery.",
+  "authors": [
+    "Steve Matney"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
